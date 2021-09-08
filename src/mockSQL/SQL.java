@@ -9,6 +9,13 @@ public class SQL implements Stuff {
 	public String passwd;
 	public String pass;
 
+	public SQL() {
+		password = "hi";
+		passwd = "hello";
+		pass = "sup";
+	}
+
+
 
 
 
